@@ -18,4 +18,5 @@ Pasos para arrancar el proyecto:
 - En la terminal ubicados en la ruta del proyecto hacemos `npm install`
 - Todo bien? si algo sale mal de pronto necesitamos permisos de admin o de super usuario
 - Entramos a nuestro [localhost](!http://localhost:3001/)
+- Se ve algo?
 - Abrir el micro en zoom y gritar `!JUMANJI!`
